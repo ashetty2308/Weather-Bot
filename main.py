@@ -1,8 +1,6 @@
 import discord
 import requests, json
 
-TOKEN = 'ODk0MjM5MTIzNzE4Njk3MDIw.YVnHFQ.OOeNeu-kcX5z0S_78FgKwm3ey6s'
-
 client = discord.Client()
 
 
